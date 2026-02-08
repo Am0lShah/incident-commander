@@ -65,20 +65,29 @@ export default function NotificationMenu() {
                         ) : (
                             <div className="divide-y divide-border/50">
                                 {notifications.map((notif) => (
-                                    <div key={notif.id} className="p-3 hover:bg-muted/50 transition-colors flex gap-3 text-sm">
-                                        <div className={`mt-0.5 w-2 h-2 rounded-full shrink-0 ${notif.read ? 'bg-muted-foreground/30' : 'bg-primary'}`} />
-                                        <div className="space-y-1">
-                                            <p className="font-medium leading-none">{notif.title}</p>
-                                            <p className="text-muted-foreground text-xs line-clamp-2">{notif.message}</p>
-                                            <p className="text-[10px] text-muted-foreground/70">{notif.time.toLocaleTimeString()}</p>
-                                        </div>
-                                    </div>
+                                    <NotificationItem key={notif.id} notif={notif} />
                                 ))}
                             </div>
                         )}
                     </div>
                 </div>
             )}
+        </div>
+    );
+}
+
+function NotificationItem({ notif }) {
+    // Translate the title (e.g., "New Incident Reported", "Incident Updated")
+    const translatedTitle = useDynamicTranslation(notif.title);
+
+    return (
+        <div className="p-3 hover:bg-muted/50 transition-colors flex gap-3 text-sm">
+            <div className={`mt-0.5 w-2 h-2 rounded-full shrink-0 ${notif.read ? 'bg-muted-foreground/30' : 'bg-primary'}`} />
+            <div className="space-y-1">
+                <p className="font-medium leading-none">{translatedTitle}</p>
+                <p className="text-muted-foreground text-xs line-clamp-2">{notif.message}</p>
+                <p className="text-[10px] text-muted-foreground/70">{notif.time.toLocaleTimeString()}</p>
+            </div>
         </div>
     );
 }

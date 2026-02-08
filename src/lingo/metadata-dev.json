@@ -1,0 +1,460 @@
+{
+  "entries": {
+    "e5e59836ce9e": {
+      "type": "content",
+      "sourceText": "Welcome Back",
+      "context": {
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "e5e59836ce9e",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 38,
+        "column": 20
+      }
+    },
+    "fc6b31aecc6c": {
+      "type": "content",
+      "sourceText": "Sign in to Incident Commander",
+      "context": {
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "fc6b31aecc6c",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 39,
+        "column": 20
+      }
+    },
+    "92835850c1ca": {
+      "type": "content",
+      "sourceText": "Email",
+      "context": {
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "92835850c1ca",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 50,
+        "column": 24
+      }
+    },
+    "851950c8c45b": {
+      "type": "attribute",
+      "sourceText": "name@company.com",
+      "context": {
+        "attributeName": "placeholder",
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "851950c8c45b",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 51,
+        "column": 24
+      }
+    },
+    "22d29059ade5": {
+      "type": "content",
+      "sourceText": "Password",
+      "context": {
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "22d29059ade5",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 62,
+        "column": 24
+      }
+    },
+    "0325d8c3f1d7": {
+      "type": "attribute",
+      "sourceText": "••••••••",
+      "context": {
+        "attributeName": "placeholder",
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "0325d8c3f1d7",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 63,
+        "column": 24
+      }
+    },
+    "7f3a7f6393b8": {
+      "type": "content",
+      "sourceText": "Don't have an account?",
+      "context": {
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "7f3a7f6393b8",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 83,
+        "column": 20
+      }
+    },
+    "90a38293a486": {
+      "type": "content",
+      "sourceText": "Sign up",
+      "context": {
+        "componentName": "Login",
+        "filePath": "components/Login.jsx"
+      },
+      "hash": "90a38293a486",
+      "location": {
+        "filePath": "components/Login.jsx",
+        "line": 84,
+        "column": 20
+      }
+    },
+    "8acbabcb42b4": {
+      "type": "content",
+      "sourceText": "Loading...",
+      "context": {
+        "componentName": "ProtectedRoute",
+        "filePath": "components/ProtectedRoute.jsx"
+      },
+      "hash": "8acbabcb42b4",
+      "location": {
+        "filePath": "components/ProtectedRoute.jsx",
+        "line": 11,
+        "column": 12
+      }
+    },
+    "b9ef9dd48e0a": {
+      "type": "content",
+      "sourceText": "IncidentCommander",
+      "context": {
+        "componentName": "Layout",
+        "filePath": "components/Layout.jsx"
+      },
+      "hash": "b9ef9dd48e0a",
+      "location": {
+        "filePath": "components/Layout.jsx",
+        "line": 19,
+        "column": 24
+      }
+    },
+    "0072c44574eb": {
+      "type": "content",
+      "sourceText": "Log out",
+      "context": {
+        "componentName": "Layout",
+        "filePath": "components/Layout.jsx"
+      },
+      "hash": "0072c44574eb",
+      "location": {
+        "filePath": "components/Layout.jsx",
+        "line": 40,
+        "column": 36
+      }
+    },
+    "cfe09375e1df": {
+      "type": "content",
+      "sourceText": "?",
+      "context": {
+        "componentName": "Layout",
+        "filePath": "components/Layout.jsx"
+      },
+      "hash": "cfe09375e1df",
+      "location": {
+        "filePath": "components/Layout.jsx",
+        "line": 48,
+        "column": 32
+      }
+    },
+    "057ea1c6530d": {
+      "type": "content",
+      "sourceText": "© 2026 Incident Commander. Powered by Lingo.dev",
+      "context": {
+        "componentName": "Layout",
+        "filePath": "components/Layout.jsx"
+      },
+      "hash": "057ea1c6530d",
+      "location": {
+        "filePath": "components/Layout.jsx",
+        "line": 64,
+        "column": 16
+      }
+    },
+    "a980a910bd67": {
+      "type": "content",
+      "sourceText": "Create Account",
+      "context": {
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "a980a910bd67",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 46,
+        "column": 20
+      }
+    },
+    "0e33d85c816c": {
+      "type": "content",
+      "sourceText": "Join Incident Commander",
+      "context": {
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "0e33d85c816c",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 47,
+        "column": 20
+      }
+    },
+    "62f526f41f13": {
+      "type": "content",
+      "sourceText": "Email",
+      "context": {
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "62f526f41f13",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 58,
+        "column": 24
+      }
+    },
+    "d279dd4181fb": {
+      "type": "attribute",
+      "sourceText": "name@company.com",
+      "context": {
+        "attributeName": "placeholder",
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "d279dd4181fb",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 59,
+        "column": 24
+      }
+    },
+    "2381776e39b6": {
+      "type": "content",
+      "sourceText": "Password",
+      "context": {
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "2381776e39b6",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 70,
+        "column": 24
+      }
+    },
+    "7615863cccb8": {
+      "type": "attribute",
+      "sourceText": "••••••••",
+      "context": {
+        "attributeName": "placeholder",
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "7615863cccb8",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 83,
+        "column": 24
+      }
+    },
+    "6c8ffc60f577": {
+      "type": "content",
+      "sourceText": "Confirm Password",
+      "context": {
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "6c8ffc60f577",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 82,
+        "column": 24
+      }
+    },
+    "d19ae5ab568e": {
+      "type": "content",
+      "sourceText": "Already have an account?",
+      "context": {
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "d19ae5ab568e",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 103,
+        "column": 20
+      }
+    },
+    "0cf886008587": {
+      "type": "content",
+      "sourceText": "Sign in",
+      "context": {
+        "componentName": "Signup",
+        "filePath": "components/Signup.jsx"
+      },
+      "hash": "0cf886008587",
+      "location": {
+        "filePath": "components/Signup.jsx",
+        "line": 104,
+        "column": 20
+      }
+    },
+    "f6cf635e683b": {
+      "type": "content",
+      "sourceText": "No active incidents.",
+      "context": {
+        "componentName": "IncidentList",
+        "filePath": "components/IncidentList.jsx"
+      },
+      "hash": "f6cf635e683b",
+      "location": {
+        "filePath": "components/IncidentList.jsx",
+        "line": 13,
+        "column": 16
+      }
+    },
+    "3cb0fa3fccfd": {
+      "type": "content",
+      "sourceText": "Open",
+      "context": {
+        "componentName": "StatusLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "3cb0fa3fccfd",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 24,
+        "column": 28
+      }
+    },
+    "191492346421": {
+      "type": "content",
+      "sourceText": "Investigating",
+      "context": {
+        "componentName": "StatusLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "191492346421",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 25,
+        "column": 37
+      }
+    },
+    "595cd2519fba": {
+      "type": "content",
+      "sourceText": "Resolved",
+      "context": {
+        "componentName": "StatusLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "595cd2519fba",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 26,
+        "column": 32
+      }
+    },
+    "c64cf92456b7": {
+      "type": "content",
+      "sourceText": "Critical",
+      "context": {
+        "componentName": "StatusLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "c64cf92456b7",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 27,
+        "column": 32
+      }
+    },
+    "bbcb738b2ca3": {
+      "type": "content",
+      "sourceText": "Low",
+      "context": {
+        "componentName": "PriorityLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "bbcb738b2ca3",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 34,
+        "column": 27
+      }
+    },
+    "bcdb77505f43": {
+      "type": "content",
+      "sourceText": "Medium",
+      "context": {
+        "componentName": "PriorityLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "bcdb77505f43",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 35,
+        "column": 30
+      }
+    },
+    "fc91180b34e9": {
+      "type": "content",
+      "sourceText": "High",
+      "context": {
+        "componentName": "PriorityLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "fc91180b34e9",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 36,
+        "column": 28
+      }
+    },
+    "0fe45dbeadd2": {
+      "type": "content",
+      "sourceText": "Critical",
+      "context": {
+        "componentName": "PriorityLabel",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "0fe45dbeadd2",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 37,
+        "column": 32
+      }
+    },
+    "b74f54aeef94": {
+      "type": "content",
+      "sourceText": "0 Updates",
+      "context": {
+        "componentName": "IncidentItem",
+        "filePath": "components/IncidentItem.jsx"
+      },
+      "hash": "b74f54aeef94",
+      "location": {
+        "filePath": "components/IncidentItem.jsx",
+        "line": 116,
+        "column": 28
+      }
+    }
+  },
+  "stats": {
+    "totalEntries": 32,
+    "lastUpdated": "2026-02-08T07:09:57.842Z"
+  }
+}

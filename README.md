@@ -23,3 +23,7 @@ Incident Commander is a modern, full-stack application designed to empower emerg
 *   **Live Project:** [https://incidentcommander.netlify.app/login](https://incidentcommander.netlify.app/login)
 *   **Demonstration Video:** [Watch Demo](https://drive.google.com/drive/folders/1ZXdgkU97zU9B8Yaz3jgBt5zE1zLA3FyX?usp=sharing)
 *   **Source Code:** [https://github.com/Am0lShah/incident-commander](https://github.com/Am0lShah/incident-commander)
+
+---
+
+© 2026 Incident Commander. All rights reserved.

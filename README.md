@@ -1,16 +1,25 @@
-# React + Vite
+# Incident Commander - Real-time Crisis Management Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Project Overview**
+Incident Commander is a modern, full-stack application designed to empower emergency response teams with a unified, real-time command center. Built to handle critical situations, it enables users to track, update, and resolve incidents instantly across the globe.
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*   **Real-time Synchronization:** Powered by Supabase WebSockets, ensuring all team members see updates the moment they happen without refreshing.
+*   **Global Localization:** Integrated with Lingo.dev to provide instant, AI-driven translation of the interface into multiple languages (Spanish, Hindi, Japanese, etc.).
+*   **Secure Authentication:** Robust user management with secure login/signup flows and protected routes.
+*   **Responsive Design:** A mobile-first, glassmorphism-inspired UI built with Tailwind CSS that works seamlessly on any device.
+*   **Interactive Notifications:** Real-time alerts and a notification history to ensure no critical update is missed.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **Frontend:** React, Vite, Tailwind CSS
+*   **Backend/Database:** Supabase (PostgreSQL, Auth, Realtime)
+*   **Localization:** Lingo.dev
+*   **Deployment:** Netlify Ready
 
-## Expanding the ESLint configuration
+## Links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*   **Live Project:** [https://incidentcommander.netlify.app/login](https://incidentcommander.netlify.app/login)
+*   **Demonstration Video:** [Watch Demo](https://drive.google.com/drive/folders/1ZXdgkU97zU9B8Yaz3jgBt5zE1zLA3FyX?usp=sharing)
+*   **Source Code:** [https://github.com/Am0lShah/incident-commander](https://github.com/Am0lShah/incident-commander)
